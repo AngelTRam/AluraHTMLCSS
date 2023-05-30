@@ -1,0 +1,148 @@
+p{
+    text-align: center;
+
+}
+.titulo-centralizado{
+    text-align: center;
+
+}
+.titulo-principal{
+    padding-left: 30px;
+}
+
+em b{
+    color:red;
+}
+#mision{
+    font-size: 20px;
+}
+#banner{
+    width: 100%;
+}
+
+
+.principal{
+    background: #CCCCCC;
+    padding: 20px;
+}
+.diferenciales{
+    background: #FFFF;
+    padding: 30px;
+
+}
+
+h3{
+    text-align: center;
+}
+.items{
+    font-style: italic;
+
+}
+ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+.imagenDiferenciales{
+    width: 50%;
+
+}
+body{ font-family: 'Montserrat', sans-serif; }
+header {
+    background-color: #BBBBBB;
+    padding: 20px 0;
+}
+
+nav li {
+    display: inline;
+    margin: 10px;
+    
+}
+
+nav a {
+    transition: 0.5s;
+    text-transform: uppercase;
+    color: black;
+    font-weight: bold;
+    font-size: 22px;
+    text-decoration: none;
+    
+}
+
+nav a:hover {
+    color: #fff;
+    text-decoration: underline;
+}
+
+.logo {
+    height: 150px;
+}
+nav {
+    position: absolute;
+    top: 65px;
+    right: 0;
+}
+
+.caja {
+    position: relative;
+    width: 940px;
+    margin: 0 auto;
+}
+.productos {
+    width: 940px;
+    margin: 0 auto;
+    
+    padding: 50px;
+}
+.productos li {
+    transition: 0.5s;
+    text-align: center;
+    display: inline-block;
+    width: 30%;
+    vertical-align: top;
+    border: #000 3px solid;
+    margin: 1.5% 1.5%;
+    padding: 30px 20px;
+    box-sizing: border-box;
+}
+
+.productos li:hover {
+    border-color: #ffc400;
+    border-radius: 15px;
+}
+
+.productos li:active{
+    border-color: #cf0303;
+}
+
+.productos h2 {
+    transition: 0.5s;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.productos li:hover h2 {
+    font-size: 40px;
+}
+
+.producto-descripcion {
+    font-size: 18px;
+}
+.producto-precio {
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+footer {
+    padding: 40px;
+    text-align: center;
+    background-color: #000;
+}
+
+.copyright {
+    color: #fff;
+    font-size: 13px;
+    margin: 20px;
+}
